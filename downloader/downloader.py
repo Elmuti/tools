@@ -1,3 +1,4 @@
+# made by wula
 # File downloader - downloads files from a list
 # Usage:
 # python downloader.py links.txt /downloaddir/
